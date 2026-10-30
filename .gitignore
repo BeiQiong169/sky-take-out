@@ -1,0 +1,9 @@
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
+
+# 数据库账号密码等本地隐私配置，不纳入版本管理
+sky-server/src/main/resources/application-dev.yml
